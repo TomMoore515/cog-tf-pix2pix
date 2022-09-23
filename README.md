@@ -9,3 +9,7 @@ Example 1 -
 ![output1](https://bafybeic7edpra52suajwpoczeosjz53oammrvfp5ic6qz4fl6swhj7jkhy.ipfs.w3s.link/image_at_epoch_0763.png)
 Example 2 -
 ![output2](https://bafybeidt4c4rvw3u6qf5tjyl663elxygjsg7e7ghyk725yry2fgqgucswa.ipfs.w3s.link/image_at_epoch_0762.png)
+
+Models were trained using CC0 data from [ambientCG](https://ambientcg.com/list?type=Atlas,Decal,Material), [PolyHaven](https://polyhaven.com/textures), and [Pixar RenderMan](https://renderman.pixar.com/category/117-texture).
+
+Individual models are avaliable on [replicate](https://replicate.com/tommoore515), or you can try out the Unity based AI Material Designer Tool on [Monaverse](https://docs.monaverse.com/get-started)
