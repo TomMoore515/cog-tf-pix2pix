@@ -1,5 +1,5 @@
 # cog-tf-pix2pix
-This is an implementation of Tensorflow's [pix2pix](https://github.com/tensorflow/docs/blob/master/site/en/tutorials/generative/pix2pix.ipynb) as a Cog model. [Cog packages machine learning models as standard containers.](https://github.com/replicate/cog) Model created for the [Monaverse](https://monaverse.com) AIMaterial Generator.
+This is an implementation of Tensorflow's [pix2pix](https://github.com/tensorflow/docs/blob/master/site/en/tutorials/generative/pix2pix.ipynb) as a Cog model. [Cog packages machine learning models as standard containers.](https://github.com/replicate/cog)
 
 pix2pix is a general purpose conditional adversartial network for image-to-image translation prediction.
 
